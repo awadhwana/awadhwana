@@ -26,7 +26,7 @@ Meal-planning application to simplify the saving of recipes and assigning them t
 - Designed a DRY, modular React application with easy-to-use, intuitive controls
 - Integrated complex data relationships into a Rails API backend, ensuring streamlined resource creation
 - Effectively employed Redux to maintain a single source of truth throughout the program
-!->
+-->
 
 ## :speech_balloon: Connect
 
