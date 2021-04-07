@@ -32,7 +32,7 @@ Meal-planning application to simplify the saving of recipes and assigning them t
 
 <p>
   <a href="mailto:24ankitw@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="24ankitw@gmail.com"/>
-  <a href="https://www.linkedin.com/in/rebecca-l-hickson/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="https://www.linkedin.com/in/rebecca-l-hickson/"/>
+  <a href="https://www.linkedin.com/in/ankit-wadhwana-0aa23316a/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" title="https://www.linkedin.com/in/ankit-wadhwana-0aa23316a/"/>
   <a href="https://24ankitw.medium.com/"><img alt="Medium" src="https://img.shields.io/badge/Medium%20-%23000000.svg?&style=for-the-badge&logo=Medium&logoColor=white" title="https://24ankitw.medium.com/"/></a>
     </p>
 
